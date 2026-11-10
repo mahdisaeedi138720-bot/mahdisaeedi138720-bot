@@ -22,8 +22,8 @@ Passionate about technology, software development, AI, automation tools and digi
 
 ## 🚀 درباره من
 
-- 🔭 در حال ساخت: **LBK Freelance Hunter** و **LBK Content Toolkit**
-- 🌱 در حال یادگیری: ایجنت‌های هوش مصنوعی و توسعه وب
+- 🔭 در حال ساخت: پروژه‌های تازه در حوزه **ایجنت‌های هوش مصنوعی**
+- 🌱 در حال یادگیری: توسعه وب و LLMها
 - 🎬 تخصص: سناریونویسی، تدوین ویدئو (DaVinci Resolve)، طراحی پوستر
 - 💬 از من بپرس درباره: پایتون، اتوماسیون، تولید محتوا
 - 📫 ارتباط: [shovaliehstartup@gmail.com](mailto:shovaliehstartup@gmail.com) | تلگرام: [@mahdiLBK](https://t.me/mahdiLBK)
@@ -32,8 +32,8 @@ Passionate about technology, software development, AI, automation tools and digi
 
 ## 🚀 About Me
 
-- 🔭 Currently building: **LBK Freelance Hunter** & **LBK Content Toolkit**
-- 🌱 Learning: AI agents & web development
+- 🔭 Currently building: new experiments with **AI agents**
+- 🌱 Learning: web development & LLMs
 - 🎬 Skills: Scriptwriting, video editing (DaVinci Resolve), poster design
 - 💬 Ask me about: Python, automation, content production
 - 📫 Reach me: [shovaliehstartup@gmail.com](mailto:shovaliehstartup@gmail.com) | Telegram: [@mahdiLBK](https://t.me/mahdiLBK)
@@ -59,7 +59,7 @@ Passionate about technology, software development, AI, automation tools and digi
 
 ## 📁 پروژه‌ها و رزومه | Projects & Résumé
 
-همه پروژه‌های من اینجا جمع شده‌اند — هر سه مخزن، عمومی و قابل مشاهده:
+همه پروژه‌های من اینجا جمع شده‌اند — عمومی و قابل مشاهده:
 
 </div>
 
@@ -67,37 +67,48 @@ Passionate about technology, software development, AI, automation tools and digi
 
 | # | Project | Field حوزه | Status وضعیت |
 |---|---|---|---|
-| 1️⃣ | [**lbk-freelance-hunter**](https://github.com/mahdisaeidi138720-bot/lbk-freelance-hunter) 🎯 | Telegram system: collecting, categorizing & prioritizing freelance opportunities با داشبورد محلی و تأیید کاربر | 🟢 Active |
-| 2️⃣ | [**lbk-content-toolkit**](https://github.com/mahdisaeidi138720-bot/lbk-content-toolkit) 🧰 | Python CLI toolkit: hashtags, captions, subtitles, text stats, content planner — ابزارهای تولید محتوا و خودکارسازی | 🟡 In development |
-| 3️⃣ | [**mahdisaeedi138720-bot**](https://github.com/mahdisaeidi138720-bot/mahdisaeedi138720-bot) 👤 | This profile — bilingual résumé & portfolio همین مخزن — رزومه دوزبانه من | 🟢 Live |
+| 1️⃣ | [**shovalieh-ai-agent**](https://github.com/mahdisaeedi138720-bot/shovalieh-ai-agent) 🤖 | Python AI agent: planning, tool use & persistent memory — ایجنت هوش مصنوعی با پایتون، بدون وابستگی خارجی | 🟢 Active |
+| 2️⃣ | [**shovalieh-brand-intro**](https://github.com/mahdisaeedi138720-bot/shovalieh-brand-intro) 🎬 | 15s motion-graphics brand intro with an original score — ویدیوی معرفی برند با موشن‌گرافیک و موسیقی اختصاصی | 🟢 Released |
+| 3️⃣ | [**shovalieh-portfolio-site**](https://github.com/mahdisaeedi138720-bot/shovalieh-portfolio-site) 🌐 | Bilingual personal website (RTL/LTR) — وب‌سایت شخصی دوزبانه معرفی و رزومه | 🟢 Live |
+| 4️⃣ | [**mahdisaeedi138720-bot**](https://github.com/mahdisaeedi138720-bot/mahdisaeedi138720-bot) 👤 | This profile — bilingual résumé همین مخزن — رزومه دوزبانه من | 🟢 Live |
 
 <div dir="rtl">
 
-### 🎯 LBK Freelance Hunter — جزئیات
+### 🤖 Shovalieh AI Agent — جزئیات
 
-سیستم مبتنی بر تلگرام برای جمع‌آوری، دسته‌بندی و بررسی فرصت‌های فریلنسری:
-- جمع‌آوری فرصت‌های کاری از کانال‌های منبع
-- دسته‌بندی و اولویت‌بندی خودکار (P1 تا P5)
-- داشبورد محلی برای مرور و تأیید نهایی توسط کاربر
-- ذخیره‌سازی SQLite و خلاصه روزانه
+ایجنت هوش مصنوعی سبک و قابل توسعه با پایتون خالص:
+- حلقه کامل ایجنت: هدف → برنامه‌ریزی → اجرای ابزار → خلاصه‌سازی
+- سیستم ابزار با دکوریتور (ماشین‌حساب، یادداشت، آمار متن، زمان)
+- حافظه ماندگار JSON که بین اجراها می‌ماند
+- پشتیبانی کامل از ارقام و متن فارسی + تست‌های واحد
 
-### 🧰 LBK Content Toolkit — جزئیات
+### 🎬 Shovalieh Brand Intro — جزئیات
 
-مجموعه ابزارهای کاربردی برای تولید محتوا و خودکارسازی فرایندهای دیجیتال:
-- هشتگ‌ساز و کپشن‌نویس (فارسی/انگلیسی، RTL)
-- ابزار زیرنویس SRT (تبدیل، جابه‌جایی زمان، شکستن خط)
-- آمار متن و بررسی محدودیت پلتفرم‌ها
-- تولید تقویم هفتگی انتشار محتوا (CSV)
+ویدیوی موشن‌گرافیک ۱۵ ثانیه‌ای معرفی برند:
+- تایپوگرافی متحرک، پنجره زنده محصول و کارت پایانی
+- موسیقی اورجینال همگام با کات‌ها
+- خروجی 1920×1080 در ۳۰ فریم بر ثانیه — تماماً کدنویسی‌شده
+
+### 🌐 Portfolio Site — جزئیات
+
+وب‌سایت شخصی دوزبانه با HTML و CSS خالص:
+- نسخه فارسی (RTL) و انگلیسی (LTR) با یک استایل مشترک
+- بخش‌های درباره من، مهارت‌ها، پروژه‌ها و ارتباط
+- انیمیشن اسکرول سبک با چند خط جاوااسکریپت
 
 </div>
 
-### 🎯 Freelance Hunter (English)
+### 🤖 AI Agent (English)
 
-Telegram-based system to collect, categorize, prioritize and review freelance opportunities — with priority scoring, a local dashboard and final user confirmation. SQLite storage, daily digest, zero heavy dependencies.
+A lightweight, extensible Python agent with zero dependencies: full agent loop (goal → plan → tools → summary), a decorator-based tool registry, persistent JSON memory, full Persian digit/text support and unit tests.
 
-### 🧰 Content Toolkit (English)
+### 🎬 Brand Intro (English)
 
-Practical Python CLI toolkit for content creators: hashtag sets (fa/en), RTL-aware captions, SRT subtitle utilities, platform-limit text stats and a weekly posting calendar (CSV). Stdlib only.
+A 15-second motion-graphics brand intro: kinetic typography, a live product window and an end card, driven entirely by code — with an original synthesized score timed to the cuts. 1920×1080 @ 30 fps.
+
+### 🌐 Portfolio Site (English)
+
+A bilingual personal website in pure HTML/CSS: Persian (RTL) and English (LTR) pages sharing one stylesheet — about, skills, projects and contact sections with a light scroll-reveal animation.
 
 ---
 
